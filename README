@@ -1,16 +1,17 @@
-OpenNI
+OpenNI with Filters
 ------
-
-Website: www.openni.org
+I was working for a long time on depth stream filtration techniques. This fork implements (will implement) these filters as part OpenNI SDK.
+------
+Website: none
 
 Buliding Prerequisites
 ======================
 Windows
 -------
-- Microsoft Visual Studio 2010
-    From: http://msdn.microsoft.com/en-us/vstudio/bb984878.aspx
-- Microsoft Kinect SDK v1.6
-    From: http://go.microsoft.com/fwlink/?LinkID=262831
+- Microsoft Visual Studio 2012
+    //From: http://msdn.microsoft.com/en-us/vstudio/bb984878.aspx
+- Microsoft Kinect SDK v1.7
+    //From: http://go.microsoft.com/fwlink/?LinkID=262831
 - Python 2.6+/3.x
     From: http://www.python.org/download/
 - PyWin32
